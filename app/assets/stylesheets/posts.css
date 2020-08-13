@@ -1,0 +1,12 @@
+.post{
+  border: 1px solid;
+  width: 40%;
+  margin: 30px;
+  font-style: italic;
+}
+.post_date{
+  color:gray;
+}
+.post_content{
+  font-style: normal;
+}
